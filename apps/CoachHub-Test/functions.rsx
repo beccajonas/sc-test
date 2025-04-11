@@ -8,6 +8,7 @@
   />
   <RESTQuery
     id="query1"
+    cookies={'[{"key":"cookie1","value":"cookie1"}]'}
     isMultiplayerEdited={false}
     resourceDisplayName="US-Resource"
     resourceName="34792ac8-c649-43e8-a67c-07a2f7340e58"
