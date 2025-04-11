@@ -8,8 +8,7 @@
   />
   <RESTQuery
     id="query1"
-    enableTransformer={true}
-    query="?"
+    isMultiplayerEdited={false}
     resourceDisplayName="US-Resource"
     resourceName="34792ac8-c649-43e8-a67c-07a2f7340e58"
     resourceNameOverride="{{ window.usResource }}"
