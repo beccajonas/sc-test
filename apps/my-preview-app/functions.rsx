@@ -20,7 +20,10 @@ return data"
   />
   <RESTQuery
     id="query3"
+    enableTransformer={true}
     resourceDisplayName="US-Resource"
     resourceName="34792ac8-c649-43e8-a67c-07a2f7340e58"
+    transformer="console.log(data)
+return data"
   />
 </GlobalFunctions>
