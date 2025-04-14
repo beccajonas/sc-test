@@ -3,5 +3,45 @@
     "row": 1.4,
     "height": 6,
     "width": 4
+  },
+  "jsonExplorer2": {
+    "row": 1.4,
+    "col": 4,
+    "height": 6,
+    "width": 4
+  },
+  "jsonExplorer3": {
+    "row": 1.4,
+    "col": 8,
+    "height": 6,
+    "width": 4
+  },
+  "text1": {
+    "row": 7.6,
+    "col": 4,
+    "height": 1
+  },
+  "text2": {
+    "row": 7.6,
+    "height": 1
+  },
+  "text3": {
+    "row": 0.6,
+    "height": 0.6
+  },
+  "text4": {
+    "row": 0.6,
+    "col": 4,
+    "height": 0.6
+  },
+  "text5": {
+    "row": 7.4,
+    "col": 8,
+    "height": 1
+  },
+  "text6": {
+    "row": 0.6,
+    "col": 8,
+    "height": 0.6
   }
 }
