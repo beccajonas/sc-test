@@ -1,9 +1,12 @@
 <GlobalFunctions>
   <RESTQuery
     id="query1"
+    enableTransformer={true}
     resourceDisplayName="EU-Resource"
     resourceName="7698f50f-fdee-4c34-8117-3f1ca479d267"
     resourceTypeOverride=""
+    transformer="console.log(data)
+return data"
   />
   <RESTQuery
     id="query2"
